@@ -60,15 +60,15 @@ const userData = {
   ],
   projects: [
     {
-      title: 'Transportation App',
-      link: 'https://github.com/codinglau/transportation-app',
-      imgUrl: '/images/projects/transportation-app.png',
+      title: 'Bus App (On-going)',
+      link: 'https://codinglau.github.io/bus-app/',
+      imgUrl: '/images/projects/bus-app.png',
     },
-    // {
-    //   title: 'PlaceholderTech',
-    //   link: 'https://placeholdertech.in',
-    //   imgUrl: '/placeholdertech.png',
-    // },
+    {
+      title: 'Online Catalogue (For demo only)',
+      link: 'https://closethighwaydemo.lncmac.com.tw/',
+      imgUrl: '/images/projects/online-catalogue.png',
+    },
     // {
     //   title: 'Portfolio',
     //   link: 'https://manuarora.in',
